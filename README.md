@@ -4,41 +4,42 @@
 
 <p align="center">
   <a href="https://github.com/derikolis/uaineze-releases/releases/latest">
-    <img src="https://img.shields.io/badge/Baixar%20para%20Windows-4f8cff?style=for-the-badge&logo=windows&logoColor=white" alt="Baixar para Windows">
+    <img src="assets/download.svg" alt="Baixar para Windows" width="380">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/derikolis/uaineze-releases?style=flat-square&label=vers%C3%A3o&color=4f8cff&labelColor=13161c" alt="Versão">
-  <img src="https://img.shields.io/badge/Windows-10%20e%2011-4f8cff?style=flat-square&labelColor=13161c" alt="Windows 10 e 11">
-  <img src="https://img.shields.io/badge/arquitetura-64%20bits-4f8cff?style=flat-square&labelColor=13161c" alt="64 bits">
-  <img src="https://img.shields.io/github/downloads/derikolis/uaineze-releases/total?style=flat-square&label=downloads&color=4f8cff&labelColor=13161c" alt="Downloads">
+  <sub>Instalação em um minuto &nbsp;·&nbsp; Atualiza sozinho &nbsp;·&nbsp; Sem precisar de administrador</sub>
 </p>
 
 <br>
 
 ## O que é o Uaineze
 
-Um espaço para ficar junto com quem você gosta, mesmo longe. Você cria uma sala, chama a galera e tem tudo num lugar só: conversa, chamada, tela compartilhada, filme e jogo.
+Um espaço para ficar junto de quem você gosta, mesmo longe. Você cria uma sala, chama a galera e tem tudo num lugar só: conversa, chamada, tela compartilhada, filme e jogo.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Conversa</h3>
+      <img src="assets/icons/conversa.svg" width="32" height="32" alt=""><br>
+      <strong>Conversa</strong><br>
       Salas com canais de texto, mensagens diretas e lista de amigos. As mensagens aparecem na hora, com GIFs, reações e respostas.
     </td>
     <td width="50%" valign="top">
-      <h3>Chamadas</h3>
+      <img src="assets/icons/chamadas.svg" width="32" height="32" alt=""><br>
+      <strong>Chamadas</strong><br>
       Voz e vídeo com qualidade de chamada de verdade, compartilhamento de tela e cancelamento de ruído.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Assistir junto</h3>
+      <img src="assets/icons/assistir.svg" width="32" height="32" alt=""><br>
+      <strong>Assistir junto</strong><br>
       Todo mundo vê a mesma coisa ao mesmo tempo, sincronizado. Pause, avance e volte, e a sala acompanha.
     </td>
     <td width="50%" valign="top">
-      <h3>Jogos</h3>
+      <img src="assets/icons/jogos.svg" width="32" height="32" alt=""><br>
+      <strong>Jogos</strong><br>
       Stop (Adedonha), Impostor, Lobisomem e outros para jogar na própria sala, com voz aberta.
     </td>
   </tr>
@@ -50,7 +51,7 @@ Um espaço para ficar junto com quem você gosta, mesmo longe. Você cria uma sa
 
 1. Abra a **[página da versão mais recente](https://github.com/derikolis/uaineze-releases/releases/latest)**.
 2. Em **Assets**, baixe o arquivo `Uaineze_x.y.z_x64-setup.exe`.
-3. Abra o arquivo e siga o instalador. Não precisa de administrador.
+3. Abra o arquivo e siga o instalador.
 
 Você só instala **uma vez**. Depois disso, o app se atualiza sozinho.
 
@@ -65,15 +66,18 @@ O Uaineze mantém você sempre na versão mais nova, sem baixar nada de novo.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>1. Procura</strong><br>
+      <img src="assets/icons/procura.svg" width="28" height="28" alt=""><br>
+      <strong>Procura</strong><br>
       Ao abrir e a cada poucas horas, o app confere se há uma versão nova.
     </td>
     <td width="33%" valign="top">
-      <strong>2. Baixa</strong><br>
+      <img src="assets/icons/baixa.svg" width="28" height="28" alt=""><br>
+      <strong>Baixa</strong><br>
       Se houver, baixa em segundo plano, sem atrapalhar o que você está fazendo.
     </td>
     <td width="33%" valign="top">
-      <strong>3. Avisa</strong><br>
+      <img src="assets/icons/avisa.svg" width="28" height="28" alt=""><br>
+      <strong>Avisa</strong><br>
       Aparece "Atualização pronta" na barra do app. Você escolhe <em>Reiniciar agora</em> ou <em>Depois</em>.
     </td>
   </tr>
@@ -119,6 +123,8 @@ Dentro do app, clique na sua foto e em <strong>Reportar um bug</strong>. Assim o
 
 <br>
 
-## Sobre este repositório
+---
 
-Este repositório guarda apenas as **versões do aplicativo para Windows**. Ele é abastecido automaticamente a cada nova versão e não precisa de nenhuma ação sua. O código-fonte do Uaineze não é público.
+<p align="center">
+  <sub>Este repositório guarda apenas as versões do aplicativo para Windows. Ele é abastecido automaticamente a cada nova versão e não precisa de nenhuma ação sua. O código-fonte do Uaineze não é público.</sub>
+</p>
